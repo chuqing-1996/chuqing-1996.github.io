@@ -1,5 +1,4 @@
-# chuqing-1996.github.io
-## Welcome to my first page!
+# Welcome to my first webpage!
 
 [assignment1](https://github.com/chuqing-1996/chuqing-1996.github.io/tree/main/assignments/assignment1) 
 
