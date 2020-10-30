@@ -11,12 +11,3 @@
 [assignment5]()
 
 [proposal](https://github.com/chuqing-1996/chuqing-1996.github.io/tree/main/assignments/proposal)
-
-# Header 1
-## Header 2
-### Header 3
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
