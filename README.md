@@ -4,7 +4,7 @@
 
 [assignment1](https://github.com/chuqing-1996/chuqing-1996.github.io/tree/main/assignments/assignment1) 
 
-[assignment2](D:\chuqing-1996.github.io\assignments\assignment2)
+[assignment2](https://chuqing-1996.github.io/airtable/)
 
 [assignment3]()
 
