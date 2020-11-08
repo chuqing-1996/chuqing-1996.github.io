@@ -13,3 +13,7 @@
 [assignment5]()
 
 [proposal](https://chuqing-1996.github.io/proposal)
+
+[assignment6]()
+
+[assignment7]()
