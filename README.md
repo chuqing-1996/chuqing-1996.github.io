@@ -12,4 +12,8 @@
 
 [assignment5]()
 
-[proposal](https://github.com/chuqing-1996/chuqing-1996.github.io/tree/main/assignments/proposal)
+[proposal](https://chuqing-1996.github.io/proposal)
+
+[assignment6]()
+
+[assignment7]()
