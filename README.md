@@ -6,7 +6,7 @@
 
 [assignment2](https://chuqing-1996.github.io/airtable/)
 
-[assignment3]()
+[assignment3](https://chuqing-1996.github.io/assign3/)
 
 [assignment4]()
 
