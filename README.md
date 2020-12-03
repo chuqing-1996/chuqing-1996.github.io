@@ -14,7 +14,7 @@
 
 [proposal](https://chuqing-1996.github.io/proposal)
 
-[assignment6]()
+[assignment6](https://www.figma.com/file/J6jBJ4N3MtKNCTGlweCIZy/assignment6-chuqing?node-id=42%3A2)
 
 [assignment7](https://chuqing-1996.github.io/chuqing-assignment7/)
 
