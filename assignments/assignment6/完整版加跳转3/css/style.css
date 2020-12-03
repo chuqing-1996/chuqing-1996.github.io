@@ -1,0 +1,162 @@
+*{margin: 0;}
+ul{
+    list-style: none;
+    padding-inline-start: 0;
+    margin: 0;
+}
+a{
+			text-decoration: none;
+			color:#fff;
+		}
+p{
+    margin-block-end: 0.5em;
+    margin-block-start: 0.5em;
+}
+.w{
+    min-width: 1200px;
+}
+/* .controller{
+    height: 100%;
+} */
+.lf{
+    float: left;
+}
+.rf{
+    float: right;
+}
+.clear::after{
+    display: block;
+    content: "";
+    height: 0;
+    clear: both;
+}
+
+header{
+    height:607px;
+    background-color: #3e3d3d;
+}
+.leftBox{
+    margin-top: 20px;
+    margin-left: 35px;
+}
+.leftBox>span{
+    display: inline-block;
+    width: 82px;
+    height: 42px;
+    line-height: 42px;
+    text-align: center;
+    border-radius: 4px;
+    color: white;
+    font-weight: 700;
+}
+.leftBox>.bg1{
+    background-color: #FFC107;
+    color: #000;
+}
+.rightBox{
+    margin-top: 20px;
+}
+.rightBox>ul{
+    margin-right: 50px;
+}
+.rightBox>ul>li{
+    float: left;
+    margin-left: 20px;
+    height: 42px;
+    line-height: 42px;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    font-size: 14px;
+}
+.content{
+    width: 600px;
+    height: 350px;
+    margin: 0 auto;
+    color: white;
+    font-size: 24px;
+}
+.text1{
+    text-align: center;
+    margin: 45px 0;
+}
+.text1>h1{
+    font-size: 58px;
+    color: white;
+}
+.text2{
+    width: 140px;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    
+    margin: 0 auto;
+    background-color: yellow;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 20px;
+    border-radius: 4px;
+}
+.text2>a{
+    color: #000;
+    display: inline-block;
+    height: 100%;
+}
+footer{
+    height: 380px;
+    background-color: #ffc60d;
+}
+.leftItem{
+    margin-top: 50px;
+    margin-left: 150px;
+}
+.leftItem>.img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background: url("../images/v1_39.png") no-repeat;
+    background-position: 50% 50%;
+    background-size: 110%;
+    overflow: hidden;
+}
+
+.title{
+    width: 120px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.title1{
+    color: rgb(78, 78, 78);
+    text-align: center;
+    
+}
+.rightItem{
+    width: 720px;
+    font-size: 14px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.rightItem>p{
+    font-weight: 700;
+}
+.f_title{
+    position: relative;
+    height: 80px;
+    line-height: 80px;
+    margin-left: 300px;
+    color:rgb(78, 78, 78);
+    font-size: 14px;
+}
+.f_title>span{
+    margin-left: 35px;
+}
+.f_title>span>img{
+    position: absolute;
+    top: 23px;
+}
+.f_title>span:nth-child(4){
+    color: white;
+    font-weight: 700;
+    padding-left: 15px;
+}

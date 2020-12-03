@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<style>
+		 *{
+            margin: 0;
+			padding: 0;
+		}
+		a{
+			text-decoration: none;
+			color:#fff;
+		}
+		li {
+            /* 清除无序列表前面的点 */
+            list-style: none;
+        }
+		.header{
+			min-width: 1200px;
+			height: 800px;
+			background-color: #7F7F7F;
+			position: relative;
+		}
+	
+		.footer{
+			min-width: 1200px;
+			height: 100px;
+			background-color: #FFC60D;
+		}
+		.sign-up,.log-in{
+			width: 82px;
+			height: 42px;
+			text-align: center;
+			line-height: 42px;
+			border-radius: 4px;
+		}
+		.sign-up{
+			
+			background-color: #FFC60D;
+			position: absolute;
+			left: 35px;
+			top: 20px;
+			text-align: center;
+		}
+		.log-in{
+			
+			position: absolute;
+			left: 120px;
+			top: 20px;
+			color: #fff;
+		}
+		.nav{
+			margin-right: 100px;
+			margin-top: 20px;
+			float: right;
+		}
+		.nav li{
+			float: left;
+			color: #fff;
+			margin:10px 15px;
+			font-weight: 700;		
+		}
+		.courses{
+			width: 400px;
+			height: 80px;
+			color: #fff;
+			font-size: 70px;
+			font-weight: 700;
+			position: absolute;
+			left: 50%;
+			margin-left: -200px;
+			top: 100px;
+		}
+		.preview{
+			width: 400px;
+			height: 50px;
+			color: #fff;
+			position: absolute;
+			left: 50%;
+			margin-left: -162px;
+			top: 180px;
+		}
+		img{
+			width: 165px;
+			height: 100px;
+			border-top-right-radius: 20px;/*div元素的右上角添加一个圆角边框*/
+			border-bottom-right-radius: 20px;
+			border-top-left-radius: 20px;/*div元素的右上角添加一个圆角边框*/
+            border-bottom-left-radius: 20px;
+		}
+		.main{
+			width: 900px;
+			height: 120px;
+			position: absolute;
+			left: 50%;
+			margin-left: -452px;
+			top: 265px;
+			
+		}
+		.main li{
+			float: left;
+			margin:10px 20px;
+		}
+		.whitfont{
+			width: 900px;
+			height: 80px;
+			position: absolute;
+			left: 50%;
+			margin-left: -452px;
+			top: 385px;
+		}
+		.whitfont li{
+			float: left;
+			margin:10px 23px;
+			color: #fff;
+			font-size: 14px;
+			text-align: center;
+		}
+		.blackfont{
+			width: 900px;
+			height: 50px;
+			position: absolute;
+			left: 50%;
+			margin-left: -452px;
+			top: 430px;
+		}
+		.blackfont li{
+			float: left;
+			margin:10px 23px;
+			color: black;
+			font-size: 14px;
+			text-align: center;
+		}
+		.blackwhitebox li{float: left;}
+		.blackwhitebox{
+			width: 100px;
+			height: 40px;
+			position: absolute;
+			left: 50%;
+			margin-left: -95px;
+			bottom: 85px;
+			text-align: center;
+			line-height: 40px;
+			font-weight: 700;
+			font-size: 18px;
+		}
+		.whitebox{
+			width: 40px;
+			height: 40px;
+			background-color: #fff;
+			border-radius: 50%;
+		}
+		.blackbox{
+			width: 40px;
+			height: 40px;
+			background-color: black;
+			border-radius: 50%;
+			color: #fff;
+		}
+		.footer{
+			position: relative;
+		}
+		.copyright{
+			position: absolute;
+			bottom: 20px;
+			left: 50%;
+			margin-left: -350px;
+			
+			
+		}
+		.copyright>span{
+			margin-left: 35px;
+		}
+		.copyright img{
+			width: 26px;
+			height: 26px;
+			position: absolute;
+			bottom: -1px;
+			left: 475px;
+
+
+		}
+		.copyright span:nth-child(3),.copyright span:nth-child(5){
+			color: #fff;
+			font-size: 14px;
+		}
+
+	</style>
+</head>
+<body>
+	<div class="header">
+		<div class="sign-up"><b>sign up</b></div> 
+		<div class="log-in"><b>log-in</b></div>
+		<div class="nav">
+				<ul>
+					<li><a href="home.html">Home</a></li>
+					<li><a href="courses.html">Courses</a></li>
+					<li><a href="#">Zoom Meeting</a></li>
+					<li><a href="#">My Courses</a></li>
+				</ul>
+		</div>
+		<div class="courses"><a href="home.html">COURSES</a></div>
+		<div class="preview">click the course name to preview</div>
+		<div class="main">
+			<ul>
+				<li><img src="images/v1.png" alt=""></li>
+				<li><img src="images/v2.png" alt=""></li>
+				<li><img src="images/v3.png" alt=""></li>
+				<li><img src="images/v4.png" alt=""></li>
+			</ul>
+		</div>
+		<div class="whitfont">
+			<ul>
+				<li>New Media Business <br> and Innovation </li>
+				<li>Data and Stories <br>  for Social Engagement </li>
+				<li>Hacking COVID-19 <br> Using Design & Coding Tools </li>
+				<li>Data Driven Product and <br> Service Design</li>
+			</ul>
+		</div>
+		<div class="blackfont">
+			<ul>
+				<li>Application Development</li>
+				<li> Social Innovation</li>
+				<li>Application Development</li>
+				<li>Application Development</li>
+			</ul>
+		</div>
+		<div class="blackwhitebox">
+			<ul>
+				<li class="whitebox"><</li>
+				<li class="blackbox">></li>
+			</ul>
+		</div>
+	</div>
+	<div class="footer">
+		<div class="copyright">
+			<span>Copyright © 2020 cuhk</span>
+			<span>Terms & Conditions</span>
+			<span>f</span>
+			<span><img src="images/AA.png" alt=""></span>
+			<span>in</span>
+		</div>
+	</div>
+</body>
+</html>
