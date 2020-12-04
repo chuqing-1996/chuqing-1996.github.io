@@ -1,3 +1,5 @@
+<html>
+<head>
 <table>
     <tr>
         <td><img src="https://avatars1.githubusercontent.com/u/71982124?s=460&u=245e047f8f5db636ba90073ab0a6a4c2c4b8bf4d&v=4" / alt="" /></td>
@@ -26,4 +28,6 @@
     </td>
     </tr>
 </table>
+</head>
+</html>
 
