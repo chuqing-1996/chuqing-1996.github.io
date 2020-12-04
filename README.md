@@ -1,6 +1,7 @@
-<img src="https://avatars1.githubusercontent.com/u/71982124?s=460&u=245e047f8f5db636ba90073ab0a6a4c2c4b8bf4d&v=4" />
-
-01 [assignment1](https://github.com/chuqing-1996/chuqing-1996.github.io/tree/main/assignments/assignment1) 
+<table>
+    <tr>
+        <td><img src="https://avatars1.githubusercontent.com/u/71982124?s=460&u=245e047f8f5db636ba90073ab0a6a4c2c4b8bf4d&v=4" / alt="" /></td>
+        <td>01 [assignment1](https://github.com/chuqing-1996/chuqing-1996.github.io/tree/main/assignments/assignment1) 
 
 02 [assignment2](https://chuqing-1996.github.io/airtable/)
 
@@ -21,4 +22,7 @@
 10
 
 11
+    </td>
+    </tr>
+</table>
 
