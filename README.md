@@ -16,7 +16,7 @@
 
 08 [assignment7](https://chuqing-1996.github.io/chuqing-assignment7/)
 
-09 [assignment8]()
+09 [assignment8](https://www.figma.com/file/3dF5liZSYZdDL2k0QyZKqg/finalproject?node-id=0%3A1)
 
 10 [assignment9](http://caderworld.net/as/index.html)
 
