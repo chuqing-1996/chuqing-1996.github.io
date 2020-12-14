@@ -1,0 +1,54 @@
+.pl li {
+    display: flex;
+    justify-content: center;
+
+}
+
+.pl img {
+    width: 50px;
+    height: 50px;
+}
+
+.header2 a,
+h2 {
+    color: white !important;
+}
+
+.ntext .top {
+    display: flex;
+    justify-content: left;
+}
+
+.input {
+    width: 1200px;
+    margin: auto;
+}
+
+.input input {
+    width: 400px;
+    height: 40px;
+    margin: 10px;
+    padding-left: 30px;
+}
+
+textarea {
+    width: 95%;
+    height: 150px;
+    margin: 10px;
+    padding: 20px;
+}
+
+.button {
+    margin-left: 20px;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: black;
+}
+
+.ntext {
+width: 600px;
+
+    margin-left: 30px;
+    border: 1px solid #a5a564;
+    padding: 0 10px;
+}
