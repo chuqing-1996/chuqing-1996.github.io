@@ -12,7 +12,7 @@
 
 05 [proposal](https://chuqing-1996.github.io/proposal)
 
-06 [assignment5]()
+06 [assignment5](https://chuqing-1996.github.io/assignment5/)
 
 07 [assignment6](https://www.figma.com/file/J6jBJ4N3MtKNCTGlweCIZy/assignment6-chuqing?node-id=42%3A2)
 
