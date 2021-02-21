@@ -1,6 +1,12 @@
 <img src="https://avatars1.githubusercontent.com/u/71982124?s=460&u=245e047f8f5db636ba90073ab0a6a4c2c4b8bf4d&v=4" width=200px length=200px>
 
-*this is my first blog*
+*TERM2*
+
+01 [assignment1](https://wordpress-552264-1774194.cloudwaysapps.com/) 
+
+02 [assignment2]
+
+*TERM1*
 
 01 [assignment1](https://github.com/chuqing-1996/chuqing-1996.github.io/tree/main/assignments/assignment1) 
 
